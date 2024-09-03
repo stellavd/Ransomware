@@ -1,5 +1,4 @@
 # Ransomware
-This is a starting project that is still under development. Only people using gmail and app password can use this.
-
+This is was a project for a university assignment.
 # How to use
-At a txt file add as the first line your email address and as second your generated key from your app password.
+This is only for gmail, while using app password. Using a different email provider requires editing lines 23 and 24. First, create a txt file where the first line is your gmail address and the second is the generated key from your app password.
